@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\combustível_C#\bin\Debug\net5.0\combustível_C#.exe
+C:\Users\user\Desktop\combustível_C#\bin\Debug\net5.0\combustível_C#.deps.json
+C:\Users\user\Desktop\combustível_C#\bin\Debug\net5.0\combustível_C#.runtimeconfig.json
+C:\Users\user\Desktop\combustível_C#\bin\Debug\net5.0\combustível_C#.runtimeconfig.dev.json
+C:\Users\user\Desktop\combustível_C#\bin\Debug\net5.0\combustível_C#.dll
+C:\Users\user\Desktop\combustível_C#\bin\Debug\net5.0\ref\combustível_C#.dll
+C:\Users\user\Desktop\combustível_C#\bin\Debug\net5.0\combustível_C#.pdb
+C:\Users\user\Desktop\combustível_C#\obj\Debug\net5.0\combustível_C#.csprojAssemblyReference.cache
+C:\Users\user\Desktop\combustível_C#\obj\Debug\net5.0\combustível_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\combustível_C#\obj\Debug\net5.0\combustível_C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\combustível_C#\obj\Debug\net5.0\combustível_C#.AssemblyInfo.cs
+C:\Users\user\Desktop\combustível_C#\obj\Debug\net5.0\combustível_C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\combustível_C#\obj\Debug\net5.0\combustível_C#.dll
+C:\Users\user\Desktop\combustível_C#\obj\Debug\net5.0\ref\combustível_C#.dll
+C:\Users\user\Desktop\combustível_C#\obj\Debug\net5.0\combustível_C#.pdb
+C:\Users\user\Desktop\combustível_C#\obj\Debug\net5.0\combustível_C#.genruntimeconfig.cache

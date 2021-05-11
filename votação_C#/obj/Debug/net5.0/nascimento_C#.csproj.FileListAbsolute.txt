@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\nascimento_C#\bin\Debug\net5.0\nascimento_C#.exe
+C:\Users\user\Desktop\nascimento_C#\bin\Debug\net5.0\nascimento_C#.deps.json
+C:\Users\user\Desktop\nascimento_C#\bin\Debug\net5.0\nascimento_C#.runtimeconfig.json
+C:\Users\user\Desktop\nascimento_C#\bin\Debug\net5.0\nascimento_C#.runtimeconfig.dev.json
+C:\Users\user\Desktop\nascimento_C#\bin\Debug\net5.0\nascimento_C#.dll
+C:\Users\user\Desktop\nascimento_C#\bin\Debug\net5.0\ref\nascimento_C#.dll
+C:\Users\user\Desktop\nascimento_C#\bin\Debug\net5.0\nascimento_C#.pdb
+C:\Users\user\Desktop\nascimento_C#\obj\Debug\net5.0\nascimento_C#.csprojAssemblyReference.cache
+C:\Users\user\Desktop\nascimento_C#\obj\Debug\net5.0\nascimento_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\nascimento_C#\obj\Debug\net5.0\nascimento_C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\nascimento_C#\obj\Debug\net5.0\nascimento_C#.AssemblyInfo.cs
+C:\Users\user\Desktop\nascimento_C#\obj\Debug\net5.0\nascimento_C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\nascimento_C#\obj\Debug\net5.0\nascimento_C#.dll
+C:\Users\user\Desktop\nascimento_C#\obj\Debug\net5.0\ref\nascimento_C#.dll
+C:\Users\user\Desktop\nascimento_C#\obj\Debug\net5.0\nascimento_C#.pdb
+C:\Users\user\Desktop\nascimento_C#\obj\Debug\net5.0\nascimento_C#.genruntimeconfig.cache
