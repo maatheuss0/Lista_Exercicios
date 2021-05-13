@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Lista_Exencicios_C#\tabuada_C#\bin\Debug\net5.0\tabuada_C#.exe
+C:\Users\user\Desktop\Lista_Exencicios_C#\tabuada_C#\bin\Debug\net5.0\tabuada_C#.deps.json
+C:\Users\user\Desktop\Lista_Exencicios_C#\tabuada_C#\bin\Debug\net5.0\tabuada_C#.runtimeconfig.json
+C:\Users\user\Desktop\Lista_Exencicios_C#\tabuada_C#\bin\Debug\net5.0\tabuada_C#.runtimeconfig.dev.json
+C:\Users\user\Desktop\Lista_Exencicios_C#\tabuada_C#\bin\Debug\net5.0\tabuada_C#.dll
+C:\Users\user\Desktop\Lista_Exencicios_C#\tabuada_C#\bin\Debug\net5.0\ref\tabuada_C#.dll
+C:\Users\user\Desktop\Lista_Exencicios_C#\tabuada_C#\bin\Debug\net5.0\tabuada_C#.pdb
+C:\Users\user\Desktop\Lista_Exencicios_C#\tabuada_C#\obj\Debug\net5.0\tabuada_C#.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Lista_Exencicios_C#\tabuada_C#\obj\Debug\net5.0\tabuada_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Lista_Exencicios_C#\tabuada_C#\obj\Debug\net5.0\tabuada_C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Lista_Exencicios_C#\tabuada_C#\obj\Debug\net5.0\tabuada_C#.AssemblyInfo.cs
+C:\Users\user\Desktop\Lista_Exencicios_C#\tabuada_C#\obj\Debug\net5.0\tabuada_C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lista_Exencicios_C#\tabuada_C#\obj\Debug\net5.0\tabuada_C#.dll
+C:\Users\user\Desktop\Lista_Exencicios_C#\tabuada_C#\obj\Debug\net5.0\ref\tabuada_C#.dll
+C:\Users\user\Desktop\Lista_Exencicios_C#\tabuada_C#\obj\Debug\net5.0\tabuada_C#.pdb
+C:\Users\user\Desktop\Lista_Exencicios_C#\tabuada_C#\obj\Debug\net5.0\tabuada_C#.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Lista_Exencicios_C#\15-algoritimo_C#\bin\Debug\net5.0\15-algoritimo_C#.exe
+C:\Users\user\Desktop\Lista_Exencicios_C#\15-algoritimo_C#\bin\Debug\net5.0\15-algoritimo_C#.deps.json
+C:\Users\user\Desktop\Lista_Exencicios_C#\15-algoritimo_C#\bin\Debug\net5.0\15-algoritimo_C#.runtimeconfig.json
+C:\Users\user\Desktop\Lista_Exencicios_C#\15-algoritimo_C#\bin\Debug\net5.0\15-algoritimo_C#.runtimeconfig.dev.json
+C:\Users\user\Desktop\Lista_Exencicios_C#\15-algoritimo_C#\bin\Debug\net5.0\15-algoritimo_C#.dll
+C:\Users\user\Desktop\Lista_Exencicios_C#\15-algoritimo_C#\bin\Debug\net5.0\ref\15-algoritimo_C#.dll
+C:\Users\user\Desktop\Lista_Exencicios_C#\15-algoritimo_C#\bin\Debug\net5.0\15-algoritimo_C#.pdb
+C:\Users\user\Desktop\Lista_Exencicios_C#\15-algoritimo_C#\obj\Debug\net5.0\15-algoritimo_C#.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Lista_Exencicios_C#\15-algoritimo_C#\obj\Debug\net5.0\15-algoritimo_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Lista_Exencicios_C#\15-algoritimo_C#\obj\Debug\net5.0\15-algoritimo_C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Lista_Exencicios_C#\15-algoritimo_C#\obj\Debug\net5.0\15-algoritimo_C#.AssemblyInfo.cs
+C:\Users\user\Desktop\Lista_Exencicios_C#\15-algoritimo_C#\obj\Debug\net5.0\15-algoritimo_C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lista_Exencicios_C#\15-algoritimo_C#\obj\Debug\net5.0\15-algoritimo_C#.dll
+C:\Users\user\Desktop\Lista_Exencicios_C#\15-algoritimo_C#\obj\Debug\net5.0\ref\15-algoritimo_C#.dll
+C:\Users\user\Desktop\Lista_Exencicios_C#\15-algoritimo_C#\obj\Debug\net5.0\15-algoritimo_C#.pdb
+C:\Users\user\Desktop\Lista_Exencicios_C#\15-algoritimo_C#\obj\Debug\net5.0\15-algoritimo_C#.genruntimeconfig.cache
